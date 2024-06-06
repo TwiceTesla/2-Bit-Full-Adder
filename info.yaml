@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     399903064416498689       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     399925277782793217       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Two Bit Adder"      # Project title
   author:       "Thang Nguyen"      # Your name
   discord:      "NA"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
